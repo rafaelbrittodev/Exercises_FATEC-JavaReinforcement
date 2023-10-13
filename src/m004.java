@@ -11,7 +11,7 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Main_004 {
+public class m004 {
     public static class Peca {
         public int cod;
         public int qt;
